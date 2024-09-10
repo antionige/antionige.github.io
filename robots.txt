@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://antionige.github.io/sitemap.html.gz
+Sitemap: https://antionige.github.io/app/sitemap.html.gz
+Sitemap: https://antionige.github.io/assets/sitemap.html.gz
+Sitemap: https://antionige.github.io/css/sitemap.html.gz
+Sitemap: https://antionige.github.io/includes/sitemap.html.gz
+Sitemap: https://antionige.github.io/item/sitemap.html.gz
+Sitemap: https://antionige.github.io/src/sitemap.html.gz
